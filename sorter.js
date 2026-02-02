@@ -257,7 +257,7 @@ function createFakeAlbum() {
     var trackNum = metadata[title].trackNumber;
     if (!album[trackNum]) {
       var border =
-        trackNum === 14
+        trackNum === 10
           ? "border-style: solid; border-width: 1px 1px 3px 1px; border-color: black;"
           : "border-style: solid; border-width: 1px; border-color: black;";
       album[trackNum] = `
@@ -276,7 +276,7 @@ function createFakeAlbum() {
         trackNumber: trackNum,
         album: metadata[title].album,
       };
-    } else if (bonusTracks.length < 4) {
+    } else if (bonusTracks.length < 5) {
       bonusTracks.push(title);
     }
   }
@@ -303,11 +303,6 @@ function createFakeAlbum() {
   ${album["8"]}
   ${album["9"]}
   ${album["10"]}
-  ${album["11"]}
-  ${album["12"]}
-  ${album["13"]}
-  ${album["14"]}
-  ${album["Single"]}
   ${bonusTracks.map((val, i) => {
     return `
       <tr>
@@ -417,3 +412,4 @@ function toNameFace(n) {
   var str = namMember[n];
   return str;
 }
+
