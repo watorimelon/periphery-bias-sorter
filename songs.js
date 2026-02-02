@@ -1,537 +1,447 @@
 var metadata = {
-  "Implicit Demand For Proof": {
-    album: "Self-Titled",
+  "Insomnia": {
+    album: "Periphery",
     trackNumber: 1,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "Fall Away": {
-    album: "Self-Titled",
+  "The Walk": {
+    album: "Periphery",
     trackNumber: 2,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "The Pantaloon": {
-    album: "Self-Titled",
+  "Letter Experiment": {
+    album: "Periphery",
     trackNumber: 3,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "Addict With A Pen": {
-    album: "Self-Titled",
+  "Jetpacks Was Yes": {
+    album: "Periphery",
     trackNumber: 4,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "Friend, Please": {
-    album: "Self-Titled",
+  "Light": {
+    album: "Periphery",
     trackNumber: 5,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "March To The Sea": {
-    album: "Self-Titled",
+  "All New Materials": {
+    album: "Periphery",
     trackNumber: 6,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "Johnny Boy": {
-    album: "Self-Titled",
+  "Buttersnips": {
+    album: "Periphery",
     trackNumber: 7,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "Oh Ms Believer": {
-    album: "Self-Titled",
+  "Icarus Lives": {
+    album: "Periphery",
     trackNumber: 8,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "Air Catcher": {
-    album: "Self-Titled",
+  "Totla Mad": {
+    album: "Periphery",
     trackNumber: 9,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  Trapdoor: {
-    album: "Self-Titled",
+  "Ow My Feelings": {
+    album: "Periphery",
     trackNumber: 10,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "A Car, A Torch, A Death": {
-    album: "Self-Titled",
+  "Zyglrox": {
+    album: "Periphery",
     trackNumber: 11,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "Taxi Cab": {
-    album: "Self-Titled",
+  "Racecar": {
+    album: "Periphery",
     trackNumber: 12,
-    image: "img/st.png",
+    image: "covers/p1.png",
   },
-  "Before You Start Your Day": {
-    album: "Self-Titled",
+  "New Groove": {
+    album: "Icarus",
+    trackNumber: 1,
+    image: "covers/icarus.png",
+  },
+  "Frak the Gods": {
+    album: "Icarus",
+    trackNumber: 2,
+    image: "covers/icarus.png",
+  },
+  "Jetpacks Was Yes V2.0": {
+    album: "Icarus",
+    trackNumber: 3,
+    image: "covers/icarus.png",
+  },
+  "Icarus Lives!": {
+    album: "Icarus",
+    trackNumber: 4,
+    image: "covers/icarus.png",
+  },
+  "Captain On": {
+    album: "Icarus",
+    trackNumber: 8,
+    image: "covers/icarus.png",
+  },
+  "Eureka!": {
+    album: "Icarus",
+    trackNumber: 9,
+    image: "covers/icarus.png",
+  },
+  "Muramasa": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 1,
+    image: "covers/p2.png",
+  },
+  "Have A Blast": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 2,
+    image: "covers/p2.png",
+  },
+  "Facepalm Mute": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 3,
+    image: "covers/p2.png",
+  },
+  "Ji": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 4,
+    image: "covers/p2.png",
+  },
+  "Scarlet": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 5,
+    image: "covers/p2.png",
+  },
+  "Luck As A Constant": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 6,
+    image: "covers/p2.png",
+  },
+  "Ragnarok": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 7,
+    image: "covers/p2.png",
+  },
+  "The Gods Must Be Crazy!": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 8,
+    image: "covers/p2.png",
+  },
+  "Make Total Destroy": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 9,
+    image: "covers/p2.png",
+  },
+  "Erised": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 10,
+    image: "covers/p2.png",
+  },
+  "Epoch": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 11,
+    image: "covers/p2.png",
+  },
+  "Froggin' Bullfish": {
+    album: "Periphery II: This Time It's Personal",
+    trackNumber: 12,
+    image: "covers/p2.png",
+  },
+  "Mile Zero": {
+    album: "Periphery II: This Time It's Personal",
     trackNumber: 13,
-    image: "img/st.png",
+    image: "covers/p2.png",
   },
-  "Isle Of Flightless Birds": {
-    album: "Self-Titled",
+  "Masamune": {
+    album: "Periphery II: This Time It's Personal",
     trackNumber: 14,
-    image: "img/st.png",
+    image: "covers/p2.png",
   },
-  Slowtown: {
-    album: "Regional at Best",
-    trackNumber: 4,
-    image: "img/rab.jpg",
-  },
-  Forest: {
-    album: "Regional at Best",
-    trackNumber: 6,
-    image: "img/rab.jpg",
-  },
-  "Glowing Eyes": {
-    album: "Regional at Best",
-    trackNumber: 7,
-    image: "img/rab.jpg",
-  },
-  "Kitchen Sink": {
-    album: "Regional at Best",
-    trackNumber: 8,
-    image: "img/rab.jpg",
-  },
-  Anathema: {
-    album: "Regional at Best",
-    trackNumber: 9,
-    image: "img/rab.jpg",
-  },
-  Lovely: {
-    album: "Regional at Best",
-    trackNumber: 10,
-    image: "img/rab.jpg",
-  },
-  Ruby: {
-    album: "Regional at Best",
-    trackNumber: 11,
-    image: "img/rab.jpg",
-  },
-  "Be Concerned": {
-    album: "Regional at Best",
-    trackNumber: 13,
-    image: "img/rab.jpg",
-  },
-  Clear: {
-    album: "Regional at Best",
-    trackNumber: 14,
-    image: "img/rab.jpg",
-  },
-  "Ode To Sleep": {
-    album: "Vessel",
+  "Far Out": {
+    album: "Periphery II: This Time It's Personal",
     trackNumber: 1,
-    image: "img/vessel.jpg",
+    image: "covers/p2.png",
   },
-  "Holding On To You": {
-    album: "Vessel",
-    trackNumber: 2,
-    image: "img/vessel.jpg",
-  },
-  Migraine: {
-    album: "Vessel",
-    trackNumber: 3,
-    image: "img/vessel.jpg",
-  },
-  "House Of Gold": {
-    album: "Vessel",
-    trackNumber: 4,
-    image: "img/vessel.jpg",
-  },
-  "Car Radio": {
-    album: "Vessel",
-    trackNumber: 5,
-    image: "img/vessel.jpg",
-  },
-  "Semi-Automatic": {
-    album: "Vessel",
-    trackNumber: 6,
-    image: "img/vessel.jpg",
-  },
-  Screen: {
-    album: "Vessel",
-    trackNumber: 7,
-    image: "img/vessel.jpg",
-  },
-  "The Run And Go": {
-    album: "Vessel",
-    trackNumber: 8,
-    image: "img/vessel.jpg",
-  },
-  "Fake You Out": {
-    album: "Vessel",
-    trackNumber: 9,
-    image: "img/vessel.jpg",
-  },
-  "Guns For Hands": {
-    album: "Vessel",
-    trackNumber: 10,
-    image: "img/vessel.jpg",
-  },
-  Trees: {
-    album: "Vessel",
-    trackNumber: 11,
-    image: "img/vessel.jpg",
-  },
-  Truce: {
-    album: "Vessel",
-    trackNumber: 12,
-    image: "img/vessel.jpg",
-  },
-  HeavyDirtySoul: {
-    album: "Blurryface",
+  "Overture": {
+    album: "Clear",
     trackNumber: 1,
-    image: "img/blurryface.png",
+    image: "covers/clear.png",
   },
-  "Stressed Out": {
-    album: "Blurryface",
+  "The Summer Jam": {
+    album: "Clear",
     trackNumber: 2,
-    image: "img/blurryface.png",
+    image: "covers/clear.png",
   },
-  Ride: {
-    album: "Blurryface",
+  "Feed The Ground": {
+    album: "Clear",
     trackNumber: 3,
-    image: "img/blurryface.png",
+    image: "covers/clear.png",
   },
-  "Fairly Local": {
-    album: "Blurryface",
+  "Zero": {
+    album: "Clear",
     trackNumber: 4,
-    image: "img/blurryface.png",
+    image: "covers/clear.png",
   },
-  "Tear In My Heart": {
-    album: "Blurryface",
+  "The Parade Of Ashes": {
+    album: "Clear",
     trackNumber: 5,
-    image: "img/blurryface.png",
+    image: "covers/clear.png",
   },
-  "Lane Boy": {
-    album: "Blurryface",
+  "Extraneous": {
+    album: "Clear",
     trackNumber: 6,
-    image: "img/blurryface.png",
+    image: "covers/clear.png",
   },
-  "The Judge": {
-    album: "Blurryface",
+  "Pale Aura": {
+    album: "Clear",
     trackNumber: 7,
-    image: "img/blurryface.png",
+    image: "covers/clear.png",
   },
-  Doubt: {
-    album: "Blurryface",
-    trackNumber: 8,
-    image: "img/blurryface.png",
-  },
-  Polarize: {
-    album: "Blurryface",
-    trackNumber: 9,
-    image: "img/blurryface.png",
-  },
-  "We Don't Believe What's On T.V.": {
-    album: "Blurryface",
-    trackNumber: 10,
-    image: "img/blurryface.png",
-  },
-  "Message Man": {
-    album: "Blurryface",
-    trackNumber: 11,
-    image: "img/blurryface.png",
-  },
-  Hometown: {
-    album: "Blurryface",
-    trackNumber: 12,
-    image: "img/blurryface.png",
-  },
-  "Not Today": {
-    album: "Blurryface",
-    trackNumber: 13,
-    image: "img/blurryface.png",
-  },
-  Goner: {
-    album: "Blurryface",
-    trackNumber: 14,
-    image: "img/blurryface.png",
-  },
-  Jumpsuit: {
-    album: "Trench",
+  "A Black Minute": {
+    album: "Juggernaut: Alpha",
     trackNumber: 1,
-    image: "img/trench.png",
+    image: "covers/alpha.png",
   },
-  Levitate: {
-    album: "Trench",
+  "MK Ultra": {
+    album: "Juggernaut: Alpha",
     trackNumber: 2,
-    image: "img/trench.png",
+    image: "covers/alpha.png",
   },
-  Morph: {
-    album: "Trench",
+  "Heavy Heart": {
+    album: "Juggernaut: Alpha",
     trackNumber: 3,
-    image: "img/trench.png",
+    image: "covers/alpha.png",
   },
-  "My Blood": {
-    album: "Trench",
+  "The Event": {
+    album: "Juggernaut: Alpha",
     trackNumber: 4,
-    image: "img/trench.png",
+    image: "covers/alpha.png",
   },
-  Chlorine: {
-    album: "Trench",
+  "The Scourge": {
+    album: "Juggernaut: Alpha",
     trackNumber: 5,
-    image: "img/trench.png",
+    image: "covers/alpha.png",
   },
-  Smithereens: {
-    album: "Trench",
+  "Alpha": {
+    album: "Juggernaut: Alpha",
     trackNumber: 6,
-    image: "img/trench.png",
+    image: "covers/alpha.png",
   },
-  "Neon Gravestones": {
-    album: "Trench",
+  "22 Faces": {
+    album: "Juggernaut: Alpha",
     trackNumber: 7,
-    image: "img/trench.png",
+    image: "covers/alpha.png",
   },
-  "The Hype": {
-    album: "Trench",
+  "Rainbow Gravity": {
+    album: "Juggernaut: Alpha",
     trackNumber: 8,
-    image: "img/trench.png",
+    image: "covers/alpha.png",
   },
-  "Nico And The Niners": {
-    album: "Trench",
+  "Four Lights": {
+    album: "Juggernaut: Alpha",
     trackNumber: 9,
-    image: "img/trench.png",
+    image: "covers/alpha.png",
   },
-  "Cut My Lip": {
-    album: "Trench",
+  "Psychosphere": {
+    album: "Juggernaut: Alpha",
     trackNumber: 10,
-    image: "img/trench.png",
+    image: "covers/alpha.png",
   },
-  Bandito: {
-    album: "Trench",
-    trackNumber: 11,
-    image: "img/trench.png",
-  },
-  "Pet Cheetah": {
-    album: "Trench",
-    trackNumber: 12,
-    image: "img/trench.png",
-  },
-  Legend: {
-    album: "Trench",
-    trackNumber: 13,
-    image: "img/trench.png",
-  },
-  "Leave The City": {
-    album: "Trench",
-    trackNumber: 14,
-    image: "img/trench.png",
-  },
-  "Good Day": {
-    album: "Scaled and Icy",
+  "Reprise": {
+    album: "Juggernaut: Omega",
     trackNumber: 1,
-    image: "img/sai.png",
+    image: "covers/omega.png",
   },
-  Choker: {
-    album: "Scaled and Icy",
+  "The Bad Thing": {
+    album: "Juggernaut: Omega",
     trackNumber: 2,
-    image: "img/sai.png",
+    image: "covers/omega.png",
   },
-  "Shy Away": {
-    album: "Scaled and Icy",
+  "Priestess": {
+    album: "Juggernaut: Omega",
     trackNumber: 3,
-    image: "img/sai.png",
+    image: "covers/omega.png",
   },
-  "The Outside": {
-    album: "Scaled and Icy",
+  "Graveless": {
+    album: "Juggernaut: Omega",
     trackNumber: 4,
-    image: "img/sai.png",
+    image: "covers/omega.png",
   },
-  Saturday: {
-    album: "Scaled and Icy",
+  "Hell Below": {
+    album: "Juggernaut: Omega",
     trackNumber: 5,
-    image: "img/sai.png",
+    image: "covers/omega.png",
   },
-  "Never Take It": {
-    album: "Scaled and Icy",
+  "Omega": {
+    album: "Juggernaut: Omega",
     trackNumber: 6,
-    image: "img/sai.png",
+    image: "covers/omega.png",
   },
-  "Mulberry Street": {
-    album: "Scaled and Icy",
+  "Stranger Things": {
+    album: "Juggernaut: Omega",
     trackNumber: 7,
-    image: "img/sai.png",
+    image: "covers/omega.png",
   },
-  Formidable: {
-    album: "Scaled and Icy",
-    trackNumber: 8,
-    image: "img/sai.png",
-  },
-  "Bounce Man": {
-    album: "Scaled and Icy",
-    trackNumber: 9,
-    image: "img/sai.png",
-  },
-  "No Chances": {
-    album: "Scaled and Icy",
-    trackNumber: 10,
-    image: "img/sai.png",
-  },
-  Redecorate: {
-    album: "Scaled and Icy",
-    trackNumber: 11,
-    image: "img/sai.png",
-  },
-  Overcompensate: {
-    album: "Clancy",
+  "The Price Is Wrong": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 1,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  "Next Semester": {
-    album: "Clancy",
+  "Motormouth": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 2,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  Backslide: {
-    album: "Clancy",
+  "Marigold": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 3,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  "Midwest Indigo": {
-    album: "Clancy",
+  "The Way the News Goes...": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 4,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  "Routines In The Night": {
-    album: "Clancy",
+  "Remain Indoors": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 5,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  Vignette: {
-    album: "Clancy",
+  "Habitual Line-Stepper": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 6,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  "The Craving (Jenna's Version)": {
-    album: "Clancy",
+  "Flatline": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 7,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  Lavish: {
-    album: "Clancy",
+  "Absolomb": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 8,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  Navigating: {
-    album: "Clancy",
+  "Catch Fire": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 9,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  "Snap Back": {
-    album: "Clancy",
+  "Prayer Position": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 10,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  "Oldies Station": {
-    album: "Clancy",
+  "Lune": {
+    album: "Periphery III: Select Difficulty",
     trackNumber: 11,
-    image: "img/clancy.png",
+    image: "covers/p3.png",
   },
-  "At The Risk Of Feeling Dumb": {
-    album: "Clancy",
-    trackNumber: 12,
-    image: "img/clancy.png",
-  },
-  "Paladin Strait": {
-    album: "Clancy",
-    trackNumber: 13,
-    image: "img/clancy.png",
-  },
-  "City Walls": {
-    album: "Breach",
+  "Reptile": {
+    album: "Periphery IV: HAIL STAN",
     trackNumber: 1,
-    image: "img/breach.png",
+    image: "covers/p4.png",
   },
-  RAWFEAR: {
-    album: "Breach",
+  "Blood Eagle": {
+    album: "Periphery IV: HAIL STAN",
     trackNumber: 2,
-    image: "img/breach.png",
+    image: "covers/p4.png",
   },
-  "Drum Show": {
-    album: "Breach",
+  "CHVRCH BVRNER": {
+    album: "Periphery IV: HAIL STAN",
     trackNumber: 3,
-    image: "img/breach.png",
+    image: "covers/p4.png",
   },
-  Garbage: {
-    album: "Breach",
+  "Garden In The Bones": {
+    album: "Periphery IV: HAIL STAN",
     trackNumber: 4,
-    image: "img/breach.png",
+    image: "covers/p4.png",
   },
-  "The Contract": {
-    album: "Breach",
+  "It's Only Smiles": {
+    album: "Periphery IV: HAIL STAN",
     trackNumber: 5,
-    image: "img/breach.png",
+    image: "covers/p4.png",
   },
-  Downstairs: {
-    album: "Breach",
+  "Follow Your Ghost": {
+    album: "Periphery IV: HAIL STAN",
     trackNumber: 6,
-    image: "img/breach.png",
+    image: "covers/p4.png",
   },
-  "Robot Voices": {
-    album: "Breach",
+  "Crush": {
+    album: "Periphery IV: HAIL STAN",
     trackNumber: 7,
-    image: "img/breach.png",
+    image: "covers/p4.png",
   },
-  "Center Mass": {
-    album: "Breach",
+  "Sentient Glow": {
+    album: "Periphery IV: HAIL STAN",
     trackNumber: 8,
-    image: "img/breach.png",
+    image: "covers/p4.png",
   },
-  Cottonwood: {
-    album: "Breach",
+  "Satellites": {
+    album: "Periphery IV: HAIL STAN",
     trackNumber: 9,
-    image: "img/breach.png",
+    image: "covers/p4.png",
   },
-  "One Way": {
-    album: "Breach",
-    trackNumber: 10,
-    image: "img/breach.png",
+  "Wildfire": {
+    album: "Periphery V: Djent Is Not A Genre",
+    trackNumber: 1,
+    image: "covers/p5.png",
   },
-  "Days Lie Dormant": {
-    album: "Breach",
-    trackNumber: 11,
-    image: "img/breach.png",
+  "Atropos": {
+    album: "Periphery V: Djent Is Not A Genre",
+    trackNumber: 2,
+    image: "covers/p5.png",
   },
-  Tally: {
-    album: "Breach",
-    trackNumber: 12,
-    image: "img/breach.png",
+  "Wax Wings": {
+    album: "Periphery V: Djent Is Not A Genre",
+    trackNumber: 3,
+    image: "covers/p5.png",
   },
-  Intentions: {
-    album: "Breach",
-    trackNumber: 13,
-    image: "img/breach.png",
+  "Everything Is Fine!": {
+    album: "Periphery V: Djent Is Not A Genre",
+    trackNumber: 4,
+    image: "covers/p5.png",
   },
-  "Drag Path": {
-    album: "Breach",
-    trackNumber: "14",
-    image: "img/breach.png",
+  "Silhouette": {
+    album: "Periphery V: Djent Is Not A Genre",
+    trackNumber: 5,
+    image: "covers/p5.png",
   },
-  "Time To Say Goodbye": {
+  "Dying Star": {
+    album: "Periphery V: Djent Is Not A Genre",
+    trackNumber: 6,
+    image: "covers/p5.png",
+  },
+  "Zagreus": {
+    album: "Periphery V: Djent Is Not A Genre",
+    trackNumber: 7,
+    image: "covers/p5.png",
+  },
+  "Dracul Gras": {
+    album: "Periphery V: Djent Is Not A Genre",
+    trackNumber: 8,
+    image: "covers/p5.png",
+  },
+  "Thanks Nobuo": {
+    album: "Periphery V: Djent Is Not A Genre",
+    trackNumber: 9,
+    image: "covers/p5.png",
+  },
+  "Passenger": {
     album: "Single",
-    trackNumber: "Single",
-    image: "img/logo.png",
+    trackNumber: Single,
+    image: "covers/passenger.png",
   },
-  Heathens: {
+  "Scarlet - Acoustic": {
     album: "Single",
-    trackNumber: "Single",
-    image: "img/logo.png",
+    trackNumber: Single,
+    image: "covers/acoustics.png",
   },
-  "Level of Concern": {
+  "It's Only Smiles - Acoustic": {
     album: "Single",
-    trackNumber: "Single",
-    image: "img/logo.png",
-  },
-  "Christmas Saves The Year": {
-    album: "Single",
-    trackNumber: "Single",
-    image: "img/logo.png",
-  },
-  "The Craving (Single Version)": {
-    album: "Single",
-    trackNumber: "Single",
-    image: "img/logo.png",
-  },
-  "The Line": {
-    album: "Single",
-    trackNumber: "Single",
-    image: "img/logo.png",
+    trackNumber: Single,
+    image: "covers/acoustics.png",
   },
 };
